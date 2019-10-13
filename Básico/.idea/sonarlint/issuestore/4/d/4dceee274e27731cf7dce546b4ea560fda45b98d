@@ -1,0 +1,19 @@
+
+\squid:S1854"9Remove this useless assignment to local variable "array".(Ž¯òñüÿÿÿÿ8§å¯ˆÜ-
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¾¢¡¼8§å¯ˆÜ-
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ÀŒ±©øÿÿÿÿ8§å¯ˆÜ-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¼Âëºýÿÿÿÿ8§å¯ˆÜ-
+V
+squid:S106C"9Replace this use of System.out or System.err by a logger.(¼î®Ë8§å¯ˆÜ-
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ØÛíÙþÿÿÿÿ8§å¯ˆÜ-
+Msquid:S1481"*Remove this unused "array" local variable.(Ž¯òñüÿÿÿÿ8§å¯ˆÜ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­†Ûüùÿÿÿÿ8§å¯ˆÜ-
+Nsquid:S1481"0Remove this unused "stringArray" local variable.(–„³‘8§å¯ˆÜ-
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ8§å¯ˆÜ-
+]squid:S1854"?Remove this useless assignment to local variable "stringArray".(–„³‘8§å¯ˆÜ-
