@@ -6,6 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import br.com.codenation.aplication.Exceptions.CodenationException;
 
+import javax.validation.constraints.Null;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -52,7 +53,7 @@ public class AplicationService {
             users.add(user);
 
             empresas.stream().filter(emp ->
-                    emp.getId().equals(compId) && emp.getVagas() > 0).findFirst().orElse(null).addUser(user);
+                    emp.getId().equals(compId) && emp.countList() < emp.getVagas()).findFirst().orElse(null).addUser(user);
             /*for (Empresa empresa:
              empresas) {
             if(empresa.getId() == compId ){

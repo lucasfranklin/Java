@@ -28,5 +28,9 @@ public class Empresa extends Pessoa {
         return users;
     }
 
+    public int countList(){
+        return users.size();
+    }
+
 
 }
