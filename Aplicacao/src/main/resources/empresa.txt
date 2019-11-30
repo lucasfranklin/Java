@@ -1,0 +1,6 @@
+nome;documento;vagas;site
+Empresa 1;123456789;1;www.empresa1.com.br
+Empresa 2;3215468789;3;www.empresa2.com.br
+Empresa 3;87454512135;1;www.empresa3.com.br
+Empresa 4;987512231;5;www.empresa4.com.br
+Empresa 5;231545689;10;www.empresa5.com.br
